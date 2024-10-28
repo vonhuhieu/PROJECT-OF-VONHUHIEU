@@ -1,0 +1,4 @@
+duyệt hay không
+ở form update, cho them checkbox duyệt, tạo them 1 cột accepted trong table products để null, nếu admin click vào thì sẽ set value = 1, tạo them một cột trạng thái ở table quản lý sản phẩm, những sản phẩm có value ở accepted = 1 sẽ là đã duyệt, còn lại thì chưa duyệt
+
+làm thêm phần lịch sử mua hàng

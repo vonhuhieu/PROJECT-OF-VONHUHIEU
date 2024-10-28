@@ -1,0 +1,1 @@
+cái nào không cần thiết thì echo, còn liên quan đến bảo mật thì ko echo, đơn giản thế thôi được chưa
